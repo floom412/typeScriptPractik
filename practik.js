@@ -3,3 +3,4 @@ console.log(orders);
 console.log("hello");
 console.log("bye");
 console.log("01.08.2025");
+console.log("перевірка");
